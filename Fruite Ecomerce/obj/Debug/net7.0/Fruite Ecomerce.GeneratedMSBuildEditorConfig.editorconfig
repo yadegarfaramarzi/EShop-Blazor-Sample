@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Fruite_Ecomerce
+build_property.RootNamespace = Fruite_Ecomerce
+build_property.ProjectDir = D:\Blazor\MySite\Project\Fruite Ecomerce\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Blazor\MySite\Project\Fruite Ecomerce
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Blazor/MySite/Project/Fruite Ecomerce/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/MySite/Project/Fruite Ecomerce/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9vdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/MySite/Project/Fruite Ecomerce/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/MySite/Project/Fruite Ecomerce/ModalSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kYWxTZWFyY2gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/MySite/Project/Fruite Ecomerce/NavBar.razor]
+build_metadata.AdditionalFiles.TargetPath = TmF2QmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/MySite/Project/Fruite Ecomerce/Pages/ProductListing.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdExpc3RpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/MySite/Project/Fruite Ecomerce/Pages/ProductListingItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdExpc3RpbmdJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/MySite/Project/Fruite Ecomerce/Pages/Shop.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/MySite/Project/Fruite Ecomerce/Pages/ShopItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcEl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/MySite/Project/Fruite Ecomerce/Pages/ShopItemDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcEl0ZW1EZXRhaWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/MySite/Project/Fruite Ecomerce/SinglePageHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = U2luZ2xlUGFnZUhlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/MySite/Project/Fruite Ecomerce/StartPage.razor]
+build_metadata.AdditionalFiles.TargetPath = U3RhcnRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/MySite/Project/Fruite Ecomerce/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

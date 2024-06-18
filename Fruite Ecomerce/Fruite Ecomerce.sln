@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruite Ecomerce", "Fruite Ecomerce.csproj", "{8BAFB5B7-018F-46F7-ABED-80DB0C3E3D37}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FruitLibrary", "..\FruitLibrary\FruitLibrary.csproj", "{4FF20691-3578-45AE-B020-E064860A4751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BAFB5B7-018F-46F7-ABED-80DB0C3E3D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BAFB5B7-018F-46F7-ABED-80DB0C3E3D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BAFB5B7-018F-46F7-ABED-80DB0C3E3D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BAFB5B7-018F-46F7-ABED-80DB0C3E3D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF20691-3578-45AE-B020-E064860A4751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF20691-3578-45AE-B020-E064860A4751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF20691-3578-45AE-B020-E064860A4751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF20691-3578-45AE-B020-E064860A4751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {615D7EF3-E510-4CB6-9CCD-CBA21F584271}
+	EndGlobalSection
+EndGlobal
